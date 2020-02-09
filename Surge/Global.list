@@ -669,6 +669,7 @@ DOMAIN-SUFFIX,v2ex.com
 
 # > Zoom
 DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zoom.com
 
 # > Amazon
 IP-CIDR,13.32.0.0/16,no-resolve
