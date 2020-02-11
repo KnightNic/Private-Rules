@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,adguard.org
+DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,zoho.com
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,walkme.com
@@ -70,3 +71,8 @@ DOMAIN-SUFFIX,cnn.it
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,dmit.io
 DOMAIN-SUFFIX,loli.net
+DOMAIN-SUFFIX,toolinbox.net
+DOMAIN-SUFFIX,devmate.com
+DOMAIN-SUFFIX,charliemonroe.net
+DOMAIN-SUFFIX,charliemonroesoftware.com
+DOMAIN-SUFFIX,ocsp.apple.com
