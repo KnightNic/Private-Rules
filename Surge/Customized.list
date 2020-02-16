@@ -110,3 +110,8 @@ DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,amazontrust.com
 DOMAIN-SUFFIX,binarynights.com
 DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,hotjar.com
+DOMAIN-SUFFIX,taboola.com
+DOMAIN-SUFFIX,impactradius-event.com
+DOMAIN-SUFFIX,createjs.com
