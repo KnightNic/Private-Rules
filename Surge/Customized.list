@@ -38,7 +38,6 @@ DOMAIN-SUFFIX,statuspage.io
 DOMAIN-SUFFIX,linkmink.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,mojang.com
-DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,company-target.com
 DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,zendesk.com
@@ -82,7 +81,6 @@ DOMAIN-SUFFIX,devmate.com
 DOMAIN-SUFFIX,charliemonroe.net
 DOMAIN-SUFFIX,charliemonroesoftware.com
 DOMAIN-SUFFIX,downiestatistics.com
-DOMAIN-SUFFIX,ocsp.apple.com
 DOMAIN-SUFFIX,eltima.com
 DOMAIN-SUFFIX,lr-ingest.io
 DOMAIN-SUFFIX,minecraft.net
@@ -132,3 +130,5 @@ DOMAIN-SUFFIX,codeclimate.com
 DOMAIN-SUFFIX,snyk.io
 DOMAIN-SUFFIX,isitmaintained.com
 DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN-SUFFIX,supersimple.com
+DOMAIN-SUFFIX,fontawesome.com
