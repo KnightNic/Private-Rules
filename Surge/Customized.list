@@ -133,3 +133,5 @@ DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,supersimple.com
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,starfall.com
+DOMAIN-SUFFIX,nyti.ms
+DOMAIN-SUFFIX,nytcn.me
