@@ -22,7 +22,6 @@ DOMAIN-SUFFIX,smallpdf.com
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,amazon-adsystem.com
-DOMAIN-SUFFIX,aaxads.com
 DOMAIN-SUFFIX,embedly.com
 DOMAIN-SUFFIX,streamable.com
 DOMAIN-SUFFIX,rlcdn.com
@@ -62,12 +61,9 @@ DOMAIN-SUFFIX,bounceexchange.com
 DOMAIN-SUFFIX,tru.am
 DOMAIN-SUFFIX,beemray.com
 DOMAIN-SUFFIX,criteo.net
-DOMAIN-SUFFIX,adsafeprotected.com
 DOMAIN-SUFFIX,indexww.com
-DOMAIN-SUFFIX,krxd.net
 DOMAIN-SUFFIX,tree.com
 DOMAIN-SUFFIX,rubiconproject.com
-DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,usabilla.com
 DOMAIN-SUFFIX,imrworldwide.com
 DOMAIN-SUFFIX,turner.com
@@ -146,3 +142,5 @@ DOMAIN-SUFFIX,expressvpn.com
 DOMAIN-SUFFIX,download-express-apps.net
 DOMAIN-SUFFIX,pcdn.co
 DOMAIN-SUFFIX,fqdtohl.com
+DOMAIN-SUFFIX,namecheap.com
+DOMAIN-SUFFIX,nc-img.com
