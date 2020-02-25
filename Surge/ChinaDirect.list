@@ -294,6 +294,11 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zmz002.com
+DOMAIN-SUFFIX,youzan.com
+DOMAIN-SUFFIX,jinshuju.net
+DOMAIN-SUFFIX,namibox.com
+DOMAIN-SUFFIX,chuangkit.com
+DOMAIN-SUFFIX,eeo.cn
 
 # DNSPod Public DNS+
 IP-CIDR,119.28.28.28/32,no-resolve
