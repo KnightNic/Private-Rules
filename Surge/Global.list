@@ -761,6 +761,8 @@ IP-CIDR6,2001:b28:f23f::/48,no-resolve
 # > Apple
 DOMAIN-SUFFIX,mail.me.com
 DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,api.apple-cloudkit.com
+DOMAIN-SUFFIX,ocsp.apple.com
 
 # > 1Password
 DOMAIN-SUFFIX,1password.com
@@ -787,3 +789,5 @@ DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,amazontrust.com
+DOMAIN-SUFFIX,api.pwnedpasswords.com
+DOMAIN-SUFFIX,
