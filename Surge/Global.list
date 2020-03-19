@@ -763,6 +763,8 @@ DOMAIN-SUFFIX,mail.me.com
 DOMAIN-SUFFIX,apple.news
 DOMAIN-SUFFIX,api.apple-cloudkit.com
 DOMAIN-SUFFIX,ocsp.apple.com
+DOMAIN-SUFFIX,gateway.icloud.com.cn
+DOMAIN-SUFFIX,p71-keyvalueservice.icloud.com.cn
 
 # > 1Password
 DOMAIN-SUFFIX,1password.com
