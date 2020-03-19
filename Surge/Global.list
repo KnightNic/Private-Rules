@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,logincdn.msauth.net
 
 # > Spark
 DOMAIN-SUFFIX,api.amplitude.com
