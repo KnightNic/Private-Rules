@@ -768,6 +768,7 @@ DOMAIN-SUFFIX,gateway.icloud.com.cn
 DOMAIN-SUFFIX,p71-keyvalueservice.icloud.com.cn
 DOMAIN-SUFFIX,p71-contacts.icloud.com.cn
 DOMAIN-SUFFIX,p71-caldav.icloud.com.cn
+DOMAIN-SUFFIX,12-courier.push.apple.com
 DOMAIN-SUFFIX,icloud-content.com
 PROCESS-NAME,mail
 
@@ -821,3 +822,4 @@ DOMAIN-SUFFIX,binarynights.com
 DOMAIN-SUFFIX,eagle.cool
 DOMAIN-SUFFIX,movistprime.com
 DOMAIN-SUFFIX,pearsoncmg.com
+DOMAIN-SUFFIX,namecheap.com
