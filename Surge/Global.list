@@ -766,6 +766,9 @@ DOMAIN-SUFFIX,api.apple-cloudkit.com
 DOMAIN-SUFFIX,ocsp.apple.com
 DOMAIN-SUFFIX,gateway.icloud.com.cn
 DOMAIN-SUFFIX,p71-keyvalueservice.icloud.com.cn
+DOMAIN-SUFFIX,p71-contacts.icloud.com.cn
+DOMAIN-SUFFIX,p71-caldav.icloud.com.cn
+DOMAIN-SUFFIX,icloud-content.com
 PROCESS-NAME,mail
 
 # > 1Password
