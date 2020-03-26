@@ -774,6 +774,7 @@ PROCESS-NAME,mail
 
 # > 1Password
 DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,appcenter.ms
 
 # > Pornhub
 DOMAIN-SUFFIX,phncdn.com
