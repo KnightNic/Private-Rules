@@ -662,6 +662,7 @@ DOMAIN-SUFFIX,unfiltered.news
 DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,webmproject.org
 DOMAIN-SUFFIX,webrtc.org
+USER-AGENT,WhatsApp*,Proxy
 
 # > V2EX
 DOMAIN-SUFFIX,v2ex.com
@@ -770,7 +771,7 @@ DOMAIN-SUFFIX,p71-contacts.icloud.com.cn
 DOMAIN-SUFFIX,p71-caldav.icloud.com.cn
 DOMAIN-SUFFIX,12-courier.push.apple.com
 DOMAIN-SUFFIX,icloud-content.com
-PROCESS-NAME,mail
+USER-AGENT,mail
 
 # > 1Password
 DOMAIN-SUFFIX,1password.com
