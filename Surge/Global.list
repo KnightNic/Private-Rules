@@ -772,7 +772,7 @@ DOMAIN-SUFFIX,p71-caldav.icloud.com.cn
 DOMAIN-SUFFIX,12-courier.push.apple.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,8-courier.push.apple.com
-USER-AGENT,mail
+PROCESS-NAME,mail
 
 # > 1Password
 DOMAIN-SUFFIX,1password.com
