@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,logincdn.msauth.net
+DOMAIN-SUFFIX,outlookmobile.com
 
 # > Spark
 DOMAIN-SUFFIX,api.amplitude.com
@@ -772,6 +773,8 @@ DOMAIN-SUFFIX,p71-caldav.icloud.com.cn
 DOMAIN-SUFFIX,12-courier.push.apple.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,8-courier.push.apple.com
+DOMAIN-SUFFIX,43-courier.push.apple.com
+DOMAIN-SUFFIX,api.smoot.apple.cn
 PROCESS-NAME,mail
 
 # > 1Password
