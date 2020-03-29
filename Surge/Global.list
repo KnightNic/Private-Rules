@@ -771,6 +771,7 @@ DOMAIN-SUFFIX,p71-keyvalueservice.icloud.com.cn
 DOMAIN-SUFFIX,p71-contacts.icloud.com.cn
 DOMAIN-SUFFIX,p71-caldav.icloud.com.cn
 DOMAIN-SUFFIX,12-courier.push.apple.com
+DOMAIN-SUFFIX,30-courier.push.apple.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,8-courier.push.apple.com
 DOMAIN-SUFFIX,43-courier.push.apple.com
