@@ -7,20 +7,12 @@ DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,nhncorp.jp
 
-# > Microsoft
-USER-AGENT,OneDrive*
-DOMAIN-KEYWORD,microsoft
-DOMAIN-KEYWORD,onedrive
-DOMAIN-SUFFIX,azure.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,office.net
-DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,msecnd.net
-DOMAIN-SUFFIX,visualstudio.com
-DOMAIN-SUFFIX,logincdn.msauth.net
-DOMAIN-SUFFIX,outlookmobile.com
+# > Sony
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
 # > Spark
 DOMAIN-SUFFIX,api.amplitude.com
@@ -47,6 +39,8 @@ DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,airtable.com
 DOMAIN-SUFFIX,alfredapp.com
 DOMAIN-SUFFIX,allconnected.co
+DOMAIN-SUFFIX,amazon.co
+DOMAIN-SUFFIX,amazon.co.jp
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,ampproject.com
@@ -200,7 +194,6 @@ DOMAIN-SUFFIX,fzlm.net
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,gabia.net
 DOMAIN-SUFFIX,garena.com
-DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,geni.us
 DOMAIN-SUFFIX,get.how
 DOMAIN-SUFFIX,getcloudapp.com
@@ -237,6 +230,7 @@ DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,hootsuite.com
 DOMAIN-SUFFIX,howtoforge.com
+DOMAIN-SUFFIX,i-cable.com
 DOMAIN-SUFFIX,iam.soy
 DOMAIN-SUFFIX,icoco.com
 DOMAIN-SUFFIX,icons8.com
@@ -362,6 +356,7 @@ DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,popo.tw
 DOMAIN-SUFFIX,potato.im
 DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,rthk.hk
 DOMAIN-SUFFIX,prfct.co
 DOMAIN-SUFFIX,proxfree.com
 DOMAIN-SUFFIX,psiphon3.com
@@ -581,6 +576,7 @@ DOMAIN-SUFFIX,xclient.info
 DOMAIN-SUFFIX,xda-developers.com
 DOMAIN-SUFFIX,xeeno.com
 DOMAIN-SUFFIX,xiti.com
+DOMAIN-SUFFIX,xteko.com
 DOMAIN-SUFFIX,xuite.net
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yahoo.com
@@ -607,6 +603,8 @@ DOMAIN-SUFFIX,zeutch.com
 DOMAIN-SUFFIX,zynamics.com
 
 # > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
+USER-AGENT,WhatsApp*
+
 DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,beetalk
 DOMAIN-KEYWORD,blogspot
@@ -614,7 +612,6 @@ DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,instagram
-DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,google
@@ -663,10 +660,10 @@ DOMAIN-SUFFIX,unfiltered.news
 DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,webmproject.org
 DOMAIN-SUFFIX,webrtc.org
-USER-AGENT,WhatsApp*,Proxy
 
 # > V2EX
 DOMAIN-SUFFIX,v2ex.com
+
 
 # > Amazon
 IP-CIDR,13.32.0.0/16,no-resolve
@@ -741,88 +738,3 @@ IP-CIDR,74.86.0.0/16,no-resolve
 IP-CIDR,75.126.0.0/16,no-resolve
 IP-CIDR,174.37.0.0/16,no-resolve
 IP-CIDR,208.43.0.0/16,no-resolve
-
-# > Telegram
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-IP-CIDR,91.108.4.0/22,no-resolve
-IP-CIDR,91.108.56.0/22,no-resolve
-IP-CIDR,91.108.56.0/23,no-resolve
-IP-CIDR,109.239.140.0/24,no-resolve
-IP-CIDR,149.154.160.0/22,no-resolve
-IP-CIDR,149.154.164.0/22,no-resolve
-IP-CIDR,149.154.168.0/22,no-resolve
-IP-CIDR,149.154.172.0/22,no-resolve
-IP-CIDR6,2001:67c:4e8::/48,no-resolve
-IP-CIDR6,2001:b28:f23d::/48,no-resolve
-IP-CIDR6,2001:b28:f23f::/48,no-resolve
-
-# > Apple
-DOMAIN-SUFFIX,mail.me.com
-DOMAIN-SUFFIX,apple.news
-DOMAIN-SUFFIX,api.apple-cloudkit.com
-DOMAIN-SUFFIX,ocsp.apple.com
-DOMAIN-SUFFIX,12-courier.push.apple.com
-DOMAIN-SUFFIX,30-courier.push.apple.com
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,8-courier.push.apple.com
-DOMAIN-SUFFIX,43-courier.push.apple.com
-
-# > 1Password
-DOMAIN-SUFFIX,1password.com
-DOMAIN-SUFFIX,appcenter.ms
-
-# > Pornhub
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
-
-# > Others
-DOMAIN-SUFFIX,downiestatistics.com
-DOMAIN-SUFFIX,charliemonroe.net
-DOMAIN-SUFFIX,charliemonroesoftware.com
-DOMAIN-SUFFIX,letsencrypt.org
-DOMAIN-SUFFIX,manycam.com
-DOMAIN-SUFFIX,wacom.com
-DOMAIN-SUFFIX,ranchero.com
-DOMAIN-SUFFIX,loli.net
-DOMAIN-SUFFIX,cdc.gov
-DOMAIN-SUFFIX,tampermonkey.net
-DOMAIN-SUFFIX,irasutoya.com
-DOMAIN-SUFFIX,mozilla.com
-DOMAIN-SUFFIX,mozilla.net
-DOMAIN-SUFFIX,mozilla.org
-DOMAIN-SUFFIX,amazontrust.com
-DOMAIN-SUFFIX,api.pwnedpasswords.com
-DOMAIN-SUFFIX,zoom.us
-DOMAIN-SUFFIX,min-api.cryptocompare.com
-DOMAIN-SUFFIX,smallpdf.com
-DOMAIN-SUFFIX,mojang.com
-DOMAIN-SUFFIX,myon.com
-DOMAIN-SUFFIX,vmware.com
-DOMAIN-SUFFIX,pearson.com
-DOMAIN-SUFFIX,email.aol.net
-DOMAIN-SUFFIX,ex.toolinbox.net
-DOMAIN-SUFFIX,mcusercontent.com
-DOMAIN-SUFFIX,mailchimp.com
-DOMAIN-SUFFIX,vmn.us7.list-manage.com
-DOMAIN-SUFFIX,eep.io
-DOMAIN-SUFFIX,wistia.com
-DOMAIN-SUFFIX,istatmenus.app
-DOMAIN-SUFFIX,devmate.com
-DOMAIN-SUFFIX,agilebits.com
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,macbartender.com
-DOMAIN-SUFFIX,eltima.com
-DOMAIN-SUFFIX,binarynights.com
-DOMAIN-SUFFIX,eagle.cool
-DOMAIN-SUFFIX,movistprime.com
-DOMAIN-SUFFIX,pearsoncmg.com
-DOMAIN-SUFFIX,namecheap.com
-DOMAIN-SUFFIX,update.resilio.com
-DOMAIN-SUFFIX.tumult.com
-DOMAIN-SUFFIX,openexchangerates.org
