@@ -668,7 +668,6 @@ USER-AGENT,WhatsApp*,Proxy
 # > V2EX
 DOMAIN-SUFFIX,v2ex.com
 
-
 # > Amazon
 IP-CIDR,13.32.0.0/16,no-resolve
 IP-CIDR,13.33.0.0/16,no-resolve
@@ -771,7 +770,6 @@ DOMAIN-SUFFIX,30-courier.push.apple.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,8-courier.push.apple.com
 DOMAIN-SUFFIX,43-courier.push.apple.com
-PROCESS-NAME,mail
 
 # > 1Password
 DOMAIN-SUFFIX,1password.com
