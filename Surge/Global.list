@@ -778,6 +778,13 @@ DOMAIN-SUFFIX,agilebits.com
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,visualstudio.com
 
+# > Microsoft
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
+
 # > Downie
 DOMAIN-SUFFIX,downiestatistics.com
 DOMAIN-SUFFIX,charliemonroe.net
