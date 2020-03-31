@@ -788,6 +788,8 @@ DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,skydrive.wns.windows.com
 
 # > Downie
 DOMAIN-SUFFIX,downiestatistics.com
@@ -808,3 +810,10 @@ DOMAIN-SUFFIX,smallpdf.com
 
 # > Eltima
 DOMAIN-SUFFIX,eltima.com
+
+# > Minecraft
+DOMAIN-SUFFIX,mojang.com
+DOMAIN-SUFFIX,minecraft.net
+
+# > Logitech
+DOMAIN-SUFFIX,logitech.com
