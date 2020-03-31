@@ -766,3 +766,6 @@ DOMAIN,itunes.apple.com,force-remote-dns
 DOMAIN-SUFFIX,apps.apple.com,force-remote-dns
 DOMAIN-SUFFIX,blobstore.apple.com
 PROCESS-NAME,News
+
+# > Zoom
+DOMAIN-KEYWORD,zoom
