@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bbci.co
 DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bbc.in
 
 # > CHOCO TV
 USER-AGENT,TwDramas*

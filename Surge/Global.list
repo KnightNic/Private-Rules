@@ -768,4 +768,17 @@ DOMAIN-SUFFIX,blobstore.apple.com
 PROCESS-NAME,News
 
 # > Zoom
-DOMAIN-KEYWORD,zoom
+DOMAIN-SUFFIX,zoom.us
+
+# > 1Password
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,agilebits.com
+
+# > Microsoft VSCODE
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,visualstudio.com
+
+# > Downie
+DOMAIN-SUFFIX,downiestatistics.com
+DOMAIN-SUFFIX,charliemonroe.net
+DOMAIN-SUFFIX,charliemonroesoftware.com
