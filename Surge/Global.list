@@ -790,6 +790,7 @@ DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,skydrive.wns.windows.com
+DOMAIN-SUFFIX,onedriveclucproddm20004.blob.core.windows.net
 
 # > Downie
 DOMAIN-SUFFIX,downiestatistics.com
@@ -817,3 +818,7 @@ DOMAIN-SUFFIX,minecraft.net
 
 # > Logitech
 DOMAIN-SUFFIX,logitech.com
+
+# > Tooinbox
+DOMAIN-SUFFIX,devmate.com
+DOMAIN-SUFFIX,toolinbox.net
