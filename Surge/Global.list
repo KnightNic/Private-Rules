@@ -823,3 +823,6 @@ DOMAIN-SUFFIX,logitech.com
 # > Tooinbox
 DOMAIN-SUFFIX,devmate.com
 DOMAIN-SUFFIX,toolinbox.net
+
+# > iStat Menus
+DOMAIN-SUFFIX,istatmenus.app
