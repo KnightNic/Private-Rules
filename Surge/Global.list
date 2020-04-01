@@ -768,6 +768,8 @@ DOMAIN-SUFFIX,blobstore.apple.com
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,lookup-api.apple.com
+DOMAIN-SUFFIX,mail.me.com
+DOMAIN-SUFFIX,init.ess.apple.com
 PROCESS-NAME,News
 
 # > Zoom
