@@ -789,8 +789,8 @@ DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,skydrive.wns.windows.com
-DOMAIN-SUFFIX,onedriveclucproddm20004.blob.core.windows.net
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
 
 # > Downie
 DOMAIN-SUFFIX,downiestatistics.com
