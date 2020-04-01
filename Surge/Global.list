@@ -795,6 +795,8 @@ DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,azure.net
 
 # > Downie
 DOMAIN-SUFFIX,downiestatistics.com
