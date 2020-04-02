@@ -772,11 +772,6 @@ DOMAIN-SUFFIX,mail.me.com
 DOMAIN-SUFFIX,init.ess.apple.com
 PROCESS-NAME,News
 
-# > Zoom
-DOMAIN-SUFFIX,zoom.us
-DOMAIN-SUFFIX,zoom.com
-DOMAIN-SUFFIX,giphy.com
-
 # > 1Password
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,agilebits.com
