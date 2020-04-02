@@ -794,6 +794,11 @@ DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,azure.net
 DOMAIN-SUFFIX,msn.com
 
+# > Zoom
+DOMAIN-SUFFIX,zoom.us
+DOMAIN-SUFFIX,zoom.com
+DOMAIN-SUFFIX,giphy.com
+
 # > Downie
 DOMAIN-SUFFIX,downiestatistics.com
 DOMAIN-SUFFIX,charliemonroe.net
