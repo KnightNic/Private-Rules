@@ -836,6 +836,9 @@ DOMAIN-SUFFIX,toolinbox.net
 # > iStat Menus
 DOMAIN-SUFFIX,istatmenus.app
 
+# > Resilio
+PROCESS-NAME,Resilio*
+
 # Others
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,zdassets.com
