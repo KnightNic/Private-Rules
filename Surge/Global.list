@@ -793,6 +793,7 @@ DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,azure.net
 DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,appcenter.ms
 
 # > Zoom
 DOMAIN-SUFFIX,zoom.us
