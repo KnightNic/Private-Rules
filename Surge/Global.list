@@ -774,6 +774,7 @@ PROCESS-NAME,News
 
 # > 1Password
 DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,1password.cm
 DOMAIN-SUFFIX,agilebits.com
 
 # > Microsoft VSCODE
@@ -794,6 +795,7 @@ DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,azure.net
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,msauth.net
 
 # > Zoom
 DOMAIN-SUFFIX,zoom.us
