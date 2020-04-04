@@ -774,10 +774,6 @@ DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,1password.cm
 DOMAIN-SUFFIX,agilebits.com
 
-# > Microsoft VSCODE
-DOMAIN-SUFFIX,msecnd.net
-DOMAIN-SUFFIX,visualstudio.com
-
 # > Microsoft
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,live.com
@@ -787,12 +783,16 @@ DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,azure.net
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,outlookmobile.com
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,visualstudio.com
 
 # > Zoom
 DOMAIN-SUFFIX,zoom.us
