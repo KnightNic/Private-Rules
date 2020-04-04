@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,ytimg.com
 # > Microsoft
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
@@ -155,6 +156,7 @@ PROCESS-NAME,LookupViewService
 # > Other
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,smallpdf.com
 DOMAIN-SUFFIX,1password.com
@@ -177,3 +179,5 @@ DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,wacom.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,culturedcode.com
+DOMAIN-SUFFIX,inoreader.com
