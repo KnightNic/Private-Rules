@@ -56,7 +56,8 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 
 # > Microsoft
-DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
@@ -65,6 +66,8 @@ DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,storage.msn.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN,oneclient.sfx.ms
 
 # > Facebook
@@ -152,3 +155,16 @@ PROCESS-NAME,LookupViewService
 # > Other
 DOMAIN-SUFFIX,git.io
 DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,smallpdf.com
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,agilebits.com
+DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,devmate.com
+DOMAIN-SUFFIX,charliemonroesoftware.com
+DOMAIN-SUFFIX,resilio.com
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,istatmenus.app
+DOMAIN-SUFFIX,toolinbox.net
+DOMAIN-SUFFIX,ocsp.identrust.com
+DOMAIN-SUFFIX,weather.com
+DOMAIN-SUFFIX,paddle.com
