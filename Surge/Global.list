@@ -154,7 +154,8 @@ PROCESS-NAME,LookupViewService
 
 # > Other
 DOMAIN-SUFFIX,git.io
-DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,smallpdf.com
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,agilebits.com
