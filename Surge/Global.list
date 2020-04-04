@@ -839,6 +839,9 @@ DOMAIN-SUFFIX,istatmenus.app
 # > Resilio
 PROCESS-NAME,Resilio*
 
+# > ManyCam
+DOMAIN-SUFFIX,manycam.com
+
 # Others
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,zdassets.com
