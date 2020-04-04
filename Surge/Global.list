@@ -150,3 +150,5 @@ DOMAIN,lookup-api.apple.com
 PROCESS-NAME,LookupViewService
 
 # > Other
+DOMAIN-SUFFIX,git.io
+DOMAIN-KEYWORD,github
