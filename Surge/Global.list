@@ -102,7 +102,6 @@ DOMAIN-SUFFIX,dowjones.com
 DOMAIN-SUFFIX,dribbble.com
 DOMAIN-SUFFIX,droplr.com
 DOMAIN-SUFFIX,duckduckgo.com
-DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,economist.com
 DOMAIN-SUFFIX,engadget.com
 DOMAIN-SUFFIX,entrust.net
@@ -146,19 +145,14 @@ DOMAIN-SUFFIX,like.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,linode.com
 DOMAIN-SUFFIX,medium.com
-DOMAIN-SUFFIX,mega.co.nz
-DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,megaupload.com
 DOMAIN-SUFFIX,microsofttranslator.com
 DOMAIN-SUFFIX,mindnode.com
 DOMAIN-SUFFIX,myfontastic.com
-DOMAIN-SUFFIX,name.com
 DOMAIN-SUFFIX,nextmedia.com
 DOMAIN-SUFFIX,nintendo.com
 DOMAIN-SUFFIX,nintendo.net
 DOMAIN-SUFFIX,notion.so
-DOMAIN-SUFFIX,novafile.com
-DOMAIN-SUFFIX,nrk.no
 DOMAIN-SUFFIX,nsstatic.net
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,nyt.com
@@ -214,6 +208,9 @@ DOMAIN-SUFFIX,tinychat.com
 DOMAIN-SUFFIX,tinypic.com
 DOMAIN-SUFFIX,tmblr.co
 DOMAIN-SUFFIX,todoist.com
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,yimg.com
+DOMAIN-SUFFIX,identrust.com
 
 # > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
 USER-AGENT,WhatsApp*
@@ -355,7 +352,6 @@ IP-CIDR,208.43.0.0/16,no-resolve
 # > Apple
 DOMAIN,ocsp.apple.com
 DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,entrust.net
 DOMAIN,ocsp.verisign.net
 DOMAIN,itunes.apple.com,force-remote-dns
 DOMAIN-SUFFIX,apps.apple.com,force-remote-dns
