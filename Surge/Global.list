@@ -153,6 +153,12 @@ DOMAIN,api-glb-sea.smoot.apple.com
 DOMAIN,lookup-api.apple.com
 PROCESS-NAME,LookupViewService
 
+# Media Press
+DOMAIN-SUFFIX,washingtonpost.com
+DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,zaobao.com.sg
+DOMAIN-SUFFIX,reuters.com
+
 # > Other
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.com
@@ -184,3 +190,5 @@ DOMAIN-SUFFIX,inoreader.com
 DOMAIN-SUFFIX,openexchangerates.org
 DOMAIN-SUFFIX,cryptocompare.com
 DOMAIN-SUFFIX,downiestatistics.com
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,wikipedia.org
