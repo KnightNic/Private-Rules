@@ -211,6 +211,8 @@ DOMAIN-SUFFIX,todoist.com
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,fontawesome.com
 
 # > Force some domains which are fucked by GFW while resolving DNS,or do not respect the system Proxy
 USER-AGENT,WhatsApp*
