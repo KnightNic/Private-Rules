@@ -71,6 +71,9 @@ DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,skypeassets.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,azure.net
+DOMAIN-SUFFIX,azureedge.net
 DOMAIN,oneclient.sfx.ms
 
 # > Facebook
@@ -198,3 +201,6 @@ DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,fontawesome.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,eltima.com
+DOMAIN-SUFFIX,yimg.com
+DOMAIN-SUFFIX,aolcdn.com
+DOMAIN-SUFFIX,alfredapp.com
