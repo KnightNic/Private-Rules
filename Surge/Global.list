@@ -71,6 +71,7 @@ DOMAIN,itunes.apple.com
 DOMAIN,api-glb-sea.smoot.apple.com
 # >> Dictionary
 PROCESS-NAME,lookup-api.apple.com
+PROCESS-NAME,Dictionary
 
 # > Microsoft
 DOMAIN-SUFFIX,live.com
