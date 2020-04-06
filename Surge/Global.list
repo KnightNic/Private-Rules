@@ -70,8 +70,7 @@ DOMAIN,itunes.apple.com
 # >> Spotlight
 DOMAIN,api-glb-sea.smoot.apple.com
 # >> Dictionary
-DOMAIN,lookup-api.apple.com
-PROCESS-NAME,LookupViewService
+PROCESS-NAME,lookup-api.apple.com
 
 # > Microsoft
 DOMAIN-SUFFIX,live.com
