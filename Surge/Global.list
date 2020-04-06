@@ -71,7 +71,6 @@ DOMAIN,itunes.apple.com
 DOMAIN,api-glb-sea.smoot.apple.com
 # >> Dictionary
 DOMAIN,lookup-api.apple.com
-DOMAIN-SUFFIX,b.akamaiedge.net
 PROCESS-NAME,LookupViewService
 
 # > Microsoft
