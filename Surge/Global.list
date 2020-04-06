@@ -1,197 +1,211 @@
-# > Google
+# Misc
+DOMAIN-SUFFIX,tw
+DOMAIN-SUFFIX,jp
+DOMAIN-SUFFIX,ly
+DOMAIN-SUFFIX,us
+DOMAIN-SUFFIX,uk
+DOMAIN-SUFFIX,au
+DOMAIN-SUFFIX,co
+DOMAIN-SUFFIX,io
+DOMAIN-SUFFIX,tk
+DOMAIN-SUFFIX,ms
+DOMAIN-SUFFIX,im
+
+DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,droplr.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tumblr.com
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,instapaper.com
+DOMAIN-SUFFIX,pushbullet.com
+DOMAIN-SUFFIX,xteko.com
+DOMAIN-SUFFIX,feedly.com
+DOMAIN-SUFFIX,nssurge.com
+DOMAIN-SUFFIX,giphy.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,pexels.com
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,gfycat.com
+DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,ampproject.org
-DOMAIN-SUFFIX,appspot.com
-DOMAIN-SUFFIX,blogger.com
-DOMAIN-SUFFIX,getoutline.org
-DOMAIN-SUFFIX,gvt0.com
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,gvt3.com
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,blogspot
-DOMAIN-SUFFIX,abc.xyz
-DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,androidify.com
-DOMAIN-SUFFIX,dialogflow.com
-DOMAIN-SUFFIX,autodraw.com
-DOMAIN-SUFFIX,capitalg.com
-DOMAIN-SUFFIX,certificate-transparency.org
-DOMAIN-SUFFIX,chrome.com
-DOMAIN-SUFFIX,chromeexperiments.com
-DOMAIN-SUFFIX,chromestatus.com
-DOMAIN-SUFFIX,chromium.org
-DOMAIN-SUFFIX,creativelab5.com
-DOMAIN-SUFFIX,debug.com
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,firebaseio.com
-DOMAIN-SUFFIX,getmdl.io
-DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,gmail.com
-DOMAIN-SUFFIX,gmodules.com
-DOMAIN-SUFFIX,godoc.org
-DOMAIN-SUFFIX,golang.org
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,gv.com
-DOMAIN-SUFFIX,gwtproject.org
-DOMAIN-SUFFIX,itasoftware.com
-DOMAIN-SUFFIX,madewithcode.com
-DOMAIN-SUFFIX,material.io
-DOMAIN-SUFFIX,polymer-project.org
-DOMAIN-SUFFIX,admin.recaptcha.net
-DOMAIN-SUFFIX,recaptcha.net
-DOMAIN-SUFFIX,shattered.io
-DOMAIN-SUFFIX,synergyse.com
-DOMAIN-SUFFIX,tensorflow.org
-DOMAIN-SUFFIX,tfhub.dev
-DOMAIN-SUFFIX,tiltbrush.com
-DOMAIN-SUFFIX,waveprotocol.org
-DOMAIN-SUFFIX,waymo.com
-DOMAIN-SUFFIX,webmproject.org
-DOMAIN-SUFFIX,webrtc.org
-DOMAIN-SUFFIX,whatbrowser.org
-DOMAIN-SUFFIX,widevine.com
-DOMAIN-SUFFIX,x.company
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,crashlytics.com
+DOMAIN-SUFFIX,weather.com
+DOMAIN-SUFFIX,maxmind.com
 
-# > Microsoft
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,office.net
-DOMAIN-SUFFIX,xboxlive.com
-DOMAIN-SUFFIX,1drv.com
-DOMAIN-SUFFIX,1drv.ms
-DOMAIN-SUFFIX,blob.core.windows.net
-DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,storage.live.com
-DOMAIN-SUFFIX,storage.msn.com
-DOMAIN-SUFFIX,onenote.com
-DOMAIN-SUFFIX,hockeyapp.net
-DOMAIN-SUFFIX,skype.com
-DOMAIN-SUFFIX,skypeassets.com
-DOMAIN-SUFFIX,azure.com
-DOMAIN-SUFFIX,azure.net
-DOMAIN-SUFFIX,azureedge.net
-DOMAIN-SUFFIX,azurewebsites.net
-DOMAIN,oneclient.sfx.ms
+AND,((DOMAIN-KEYWORD,wiki), (DOMAIN-SUFFIX,org))
+AND,((DOMAIN-KEYWORD,amazon), (DOMAIN-SUFFIX,com))
+AND,((DOMAIN-KEYWORD,github), (DOMAIN-SUFFIX,com))
+AND,((DOMAIN-KEYWORD,dropbox), (DOMAIN-SUFFIX,com))
 
-# > Facebook
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,fb.com
+# Netflix
+USER-AGENT,Argo*
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net
+
+# eBay
+DOMAIN-SUFFIX,ebay.com
+DOMAIN-SUFFIX,ebay-us.com
+DOMAIN-SUFFIX,ebayimg.com
+DOMAIN-SUFFIX,ebaystatic.com
+
+# OneDrive
+USER-AGENT,OneDrive*
+USER-AGENT,OneDriveiOSApp*
+DOMAIN,onedrive.live.com
+
+# Facebook
 DOMAIN-SUFFIX,fb.me
-DOMAIN-SUFFIX,fbaddins.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,fbworkmail.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,oculuscdn.com
-DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-KEYWORD,facebook
-IP-CIDR,3.123.36.126/32,no-resolve
-IP-CIDR,35.157.215.84/32,no-resolve
-IP-CIDR,35.157.217.255/32,no-resolve
-IP-CIDR,52.58.209.134/32,no-resolve
-IP-CIDR,54.93.124.31/32,no-resolve
-IP-CIDR,54.162.243.80/32,no-resolve
-IP-CIDR,54.173.34.141/32,no-resolve
-IP-CIDR,54.235.23.242/32,no-resolve
-IP-CIDR,169.45.248.118/32,no-resolve
 
-# > Twitter
-DOMAIN-SUFFIX,pscp.tv
-DOMAIN-SUFFIX,periscope.tv
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,twimg.co
+# Microsoft
+DOMAIN-SUFFIX,gfx.ms
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,akamaized.net
+
+# Google
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,blogspot
+DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,getoutline.org
+
+# Line
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,line-apps.com
+
+# Reddit
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+
+# Yahoo
+DOMAIN-SUFFIX,yimg.com
+DOMAIN-SUFFIX,yahoo.com
+
+# Slack
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,slack-edge.com
+DOMAIN-SUFFIX,slack-msgs.com
+
+# Pinterest
+DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,pinterest.com
+
+# Zendesk
+DOMAIN-SUFFIX,zendesk.com
+DOMAIN-SUFFIX,zdassets.com
+
+# TextNow
+USER-AGENT,TextNow*
+DOMAIN-SUFFIX,freegeoip.net
+
+# Trello
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,trellocdn.com
+
+# Twitch
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitchsvc.net
+
+# Twitter
 DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitpic.com
-DOMAIN-SUFFIX,vine.co
-DOMAIN-KEYWORD,twitter
+DOMAIN-SUFFIX,twitter.com
 
-# > Telegram
+# Telegram
 DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,telesco.pe
-IP-CIDR,91.108.4.0/22,no-resolve
-IP-CIDR,91.108.8.0/22,no-resolve
-IP-CIDR,91.108.12.0/22,no-resolve
-IP-CIDR,91.108.16.0/22,no-resolve
-IP-CIDR,91.108.56.0/22,no-resolve
-IP-CIDR,149.154.160.0/20,no-resolve
-IP-CIDR6,2001:b28:f23d::/48,no-resolve
-IP-CIDR6,2001:b28:f23f::/48,no-resolve
-IP-CIDR6,2001:67c:4e8::/48,no-resolve
+DOMAIN-SUFFIX,tdesktop.com
 
-# > Line
-DOMAIN-SUFFIX,line.me
-DOMAIN-SUFFIX,line-apps.com
-DOMAIN-SUFFIX,line-scdn.net
-DOMAIN-SUFFIX,naver.jp
-IP-CIDR,103.2.30.0/23,no-resolve
-IP-CIDR,125.209.208.0/20,no-resolve
-IP-CIDR,147.92.128.0/17,no-resolve
-IP-CIDR,203.104.144.0/21,no-resolve
+# WalMart
+DOMAIN-SUFFIX,walmart.com
+DOMAIN-SUFFIX,walmartimages.com
 
-# Media Press
-DOMAIN-SUFFIX,washingtonpost.com
-DOMAIN-SUFFIX,aol.com
-DOMAIN-SUFFIX,zaobao.com.sg
-DOMAIN-SUFFIX,reuters.com
+# Snapchat
+DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,sc-static.net
+
+# CNN
+DOMAIN-SUFFIX,cnn.io
 DOMAIN-SUFFIX,cnn.com
 
-# > Other
-DOMAIN-SUFFIX,git.io
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,smallpdf.com
-DOMAIN-SUFFIX,1password.com
-DOMAIN-SUFFIX,agilebits.com
-DOMAIN-SUFFIX,appcenter.ms
-DOMAIN-SUFFIX,devmate.com
-DOMAIN-SUFFIX,charliemonroesoftware.com
-DOMAIN-SUFFIX,resilio.com
-DOMAIN-SUFFIX,getsync.com
-DOMAIN-SUFFIX,nssurge.com
-DOMAIN-SUFFIX,istatmenus.app
-DOMAIN-SUFFIX,toolinbox.net
-DOMAIN-SUFFIX,ocsp.identrust.com
-DOMAIN-SUFFIX,weather.com
-DOMAIN-SUFFIX,paddle.com
-DOMAIN-SUFFIX,adtidy.org
-DOMAIN-SUFFIX,manycam.com
-DOMAIN-SUFFIX,zoom.us
-DOMAIN-SUFFIX,feedly.com
-DOMAIN-SUFFIX,yahoo.com
-DOMAIN-SUFFIX,wacom.com
-DOMAIN-SUFFIX,v2ex.com
-DOMAIN-SUFFIX,bit.ly
-DOMAIN-SUFFIX,culturedcode.com
-DOMAIN-SUFFIX,inoreader.com
-DOMAIN-SUFFIX,openexchangerates.org
-DOMAIN-SUFFIX,cryptocompare.com
-DOMAIN-SUFFIX,downiestatistics.com
+# Blogger
+DOMAIN-SUFFIX,blogger.com
+DOMAIN-SUFFIX,blogspot.com
+
+# PayPal
 DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,wikiquote.org
-DOMAIN-SUFFIX,fontawesome.com
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,eltima.com
-DOMAIN-SUFFIX,yimg.com
-DOMAIN-SUFFIX,aolcdn.com
-DOMAIN-SUFFIX,alfredapp.com
-DOMAIN-SUFFIX,engadget.com
-DOMAIN-SUFFIX,medium.com
-DOMAIN-SUFFIX,letsencrypt.org
-DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,paypalobjects.com
+
+# Xvideo
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xvideos-cdn.com
+
+# PornHub
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,pornhubpremium.com
+
+# NYTimes
+DOMAIN-SUFFIX,nyt.com
+DOMAIN-SUFFIX,nytcn.me
+DOMAIN-SUFFIX,nytimes.com
+
+# > Learning A-Z
+DOMAIN-SUFFIX,raz-plus.com
+DOMAIN-SUFFIX,kidsa-z.com
+DOMAIN-SUFFIX,raz-kids.com
+DOMAIN-SUFFIX,learninga-z.com
+DOMAIN-SUFFIX,readinga-z.com
+DOMAIN-SUFFIX,sciencea-z.com
+DOMAIN-SUFFIX,writinga-z.com
+DOMAIN-SUFFIX,vocabularya-z.com
+DOMAIN-SUFFIX,readytesta-z.com
+DOMAIN-SUFFIX,headsprout.com
+
+# FINAL
+AND,((IP-CIDR,0.0.0.0/0,no-resolve), (NOT,((GEOIP,CN))))
+AND,((IP-CIDR6,::/0,no-resolve), (NOT,((GEOIP,CN))))
+
+# User-Agent
+AND,((USER-AGENT,JSBox*), (NOT,((GEOIP,CN))))
+AND,((USER-AGENT,Reeder*), (NOT,((GEOIP,CN))))
+
+AND,((USER-AGENT,Mozilla*), (NOT,((GEOIP,CN))))
+AND,((USER-AGENT,*Safari*), (NOT,((GEOIP,CN))))
+AND,((USER-AGENT,*Networking*), (NOT,((GEOIP,CN))))
