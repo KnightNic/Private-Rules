@@ -55,6 +55,7 @@ DOMAIN,seed.siri.apple.com
 DOMAIN,iadsdk.apple.com
 DOMAIN,testflight.apple.com
 DOMAIN,ocsp.apple.com
+DOMAIN-SUFFIX,mail.me.com
 
 # Netflix
 USER-AGENT,Argo*
@@ -76,6 +77,8 @@ DOMAIN-SUFFIX,ebaystatic.com
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
 DOMAIN,onedrive.live.com
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,onedrive.com
 
 # Facebook
 DOMAIN-SUFFIX,fb.me
