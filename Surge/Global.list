@@ -33,6 +33,10 @@ DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,maxmind.com
+DOMAIN-SUFFIX,alfredapp.com
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,istatmenus.app
 
 AND,((DOMAIN-KEYWORD,wiki), (DOMAIN-SUFFIX,org))
 AND,((DOMAIN-KEYWORD,amazon), (DOMAIN-SUFFIX,com))
