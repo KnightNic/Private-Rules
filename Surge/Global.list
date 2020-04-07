@@ -40,6 +40,8 @@ DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,wacom.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN-SUFFIX,culturedcode.com
+DOMAIN-SUFFIX,macbartender.com
 
 AND,((DOMAIN-KEYWORD,wiki), (DOMAIN-SUFFIX,org))
 AND,((DOMAIN-KEYWORD,amazon), (DOMAIN-SUFFIX,com))
