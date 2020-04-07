@@ -36,12 +36,16 @@ DOMAIN-SUFFIX,maxmind.com
 DOMAIN-SUFFIX,alfredapp.com
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,resilio.com
+DOMAIN-SUFFIX,agilebits.com
+DOMAIN-SUFFIX,smallpdf.com
 DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,wacom.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-SUFFIX,macbartender.com
+DOMAIN-SUFFIX,paddle.com
 
 AND,((DOMAIN-KEYWORD,wiki), (DOMAIN-SUFFIX,org))
 AND,((DOMAIN-KEYWORD,amazon), (DOMAIN-SUFFIX,com))
@@ -57,6 +61,7 @@ DOMAIN,testflight.apple.com
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp.sectigo.com
 DOMAIN,rss.acast.com
+DOMAIN,api.apple-cloudkit.com
 DOMAIN-SUFFIX,mail.me.com
 
 # Netflix
@@ -81,6 +86,7 @@ USER-AGENT,OneDriveiOSApp*
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,hockeyapp.net
 
 # Facebook
 DOMAIN-SUFFIX,fb.me
