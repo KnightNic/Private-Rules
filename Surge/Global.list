@@ -63,6 +63,7 @@ DOMAIN,ocsp.sectigo.com
 DOMAIN,rss.acast.com
 DOMAIN,api.apple-cloudkit.com
 DOMAIN-SUFFIX,mail.me.com
+DOMAIN-SUFFIX,push.apple.com
 
 # Netflix
 USER-AGENT,Argo*
