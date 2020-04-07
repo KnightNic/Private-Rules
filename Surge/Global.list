@@ -37,6 +37,9 @@ DOMAIN-SUFFIX,alfredapp.com
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,istatmenus.app
+DOMAIN-SUFFIX,wacom.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,letsencrypt.org
 
 AND,((DOMAIN-KEYWORD,wiki), (DOMAIN-SUFFIX,org))
 AND,((DOMAIN-KEYWORD,amazon), (DOMAIN-SUFFIX,com))
