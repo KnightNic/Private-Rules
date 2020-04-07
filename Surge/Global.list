@@ -78,8 +78,8 @@ DOMAIN-SUFFIX,ebaystatic.com
 # OneDrive
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
-DOMAIN,onedrive.live.com
-DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,onedrive.com
 
 # Facebook
