@@ -56,6 +56,7 @@ DOMAIN,iadsdk.apple.com
 DOMAIN,testflight.apple.com
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp.sectigo.com
+DOMAIN,rss.acast.com
 DOMAIN-SUFFIX,mail.me.com
 
 # Netflix
