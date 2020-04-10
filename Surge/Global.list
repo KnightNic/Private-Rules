@@ -60,6 +60,7 @@ DOMAIN,iadsdk.apple.com
 DOMAIN,testflight.apple.com
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp.sectigo.com
+DOMAIN,ocsp.entrust.net
 DOMAIN,rss.acast.com
 DOMAIN,api.apple-cloudkit.com
 DOMAIN-SUFFIX,mail.me.com
