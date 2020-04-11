@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-SUFFIX,macbartender.com
+DOMAIN-SUFFIX,eltima.com
 DOMAIN-SUFFIX,paddle.com
 
 AND,((DOMAIN-KEYWORD,wiki), (DOMAIN-SUFFIX,org))
