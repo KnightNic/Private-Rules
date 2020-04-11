@@ -65,6 +65,7 @@ DOMAIN,rss.acast.com
 DOMAIN,api.apple-cloudkit.com
 DOMAIN-SUFFIX,mail.me.com
 DOMAIN-SUFFIX,push.apple.com
+DOMAIN-KEYWORD,-buy.itunes.apple.com
 
 # Netflix
 USER-AGENT,Argo*
