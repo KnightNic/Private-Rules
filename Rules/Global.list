@@ -54,6 +54,7 @@ DOMAIN,ocvideo.apple.com
 DOMAIN,seed.siri.apple.com
 DOMAIN,iadsdk.apple.com
 DOMAIN,testflight.apple.com
+DOMAIN,mail.me.com
 DOMAIN-KEYWORD,-buy.itunes.apple.com
 
 # Netflix
