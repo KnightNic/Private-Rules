@@ -86,6 +86,8 @@ DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,dianping.com
 
+DOMAIN-SUFFIX,shimo.im
+
 # Apple
 USER-AGENT,cloudd*
 USER-AGENT,CloudKit*
