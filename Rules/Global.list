@@ -48,14 +48,6 @@ AND,((DOMAIN-KEYWORD,amazon), (DOMAIN-SUFFIX,com))
 AND,((DOMAIN-KEYWORD,github), (DOMAIN-SUFFIX,com))
 AND,((DOMAIN-KEYWORD,dropbox), (DOMAIN-SUFFIX,com))
 
-# Apple
-DOMAIN,xp.apple.com
-DOMAIN,ocvideo.apple.com
-DOMAIN,seed.siri.apple.com
-DOMAIN,iadsdk.apple.com
-DOMAIN,testflight.apple.com
-DOMAIN-KEYWORD,-buy.itunes.apple.com
-
 # Netflix
 USER-AGENT,Argo*
 DOMAIN-SUFFIX,netflix.com
