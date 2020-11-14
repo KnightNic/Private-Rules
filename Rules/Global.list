@@ -58,12 +58,6 @@ DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
 
-# eBay
-DOMAIN-SUFFIX,ebay.com
-DOMAIN-SUFFIX,ebay-us.com
-DOMAIN-SUFFIX,ebayimg.com
-DOMAIN-SUFFIX,ebaystatic.com
-
 # OneDrive
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
@@ -163,10 +157,6 @@ DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
 DOMAIN-SUFFIX,tdesktop.com
-
-# WalMart
-DOMAIN-SUFFIX,walmart.com
-DOMAIN-SUFFIX,walmartimages.com
 
 # Snapchat
 DOMAIN-SUFFIX,snapchat.com
