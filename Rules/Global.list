@@ -17,7 +17,6 @@ DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,instapaper.com
-DOMAIN-SUFFIX,pushbullet.com
 DOMAIN-SUFFIX,xteko.com
 DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,nssurge.com
@@ -188,18 +187,6 @@ DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytcn.me
 DOMAIN-SUFFIX,nytimes.com
-
-# > Learning A-Z
-DOMAIN-SUFFIX,raz-plus.com
-DOMAIN-SUFFIX,kidsa-z.com
-DOMAIN-SUFFIX,raz-kids.com
-DOMAIN-SUFFIX,learninga-z.com
-DOMAIN-SUFFIX,readinga-z.com
-DOMAIN-SUFFIX,sciencea-z.com
-DOMAIN-SUFFIX,writinga-z.com
-DOMAIN-SUFFIX,vocabularya-z.com
-DOMAIN-SUFFIX,readytesta-z.com
-DOMAIN-SUFFIX,headsprout.com
 
 # FINAL
 AND,((IP-CIDR,0.0.0.0/0,no-resolve), (NOT,((GEOIP,CN))))
