@@ -41,6 +41,8 @@ DOMAIN-SUFFIX,smallpdf.com
 DOMAIN-SUFFIX,wacom.com
 DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-SUFFIX,paddle.com
+DOMAIN-SUFFIX,www.onenote.com
+DOMAIN-SUFFIX,istatmenus.app
 
 AND,((DOMAIN-KEYWORD,wiki), (DOMAIN-SUFFIX,org))
 AND,((DOMAIN-KEYWORD,amazon), (DOMAIN-SUFFIX,com))
@@ -187,6 +189,14 @@ DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytcn.me
 DOMAIN-SUFFIX,nytimes.com
+
+# Adobe
+DOMAIN-SUFFIX,aws.adobess.com
+DOMAIN-SUFFIX,adobelogin.com
+DOMAIN-SUFFIX,hbrcv.adobe.com
+DOMAIN-SUFFIX,cvs.adobe.com
+DOMAIN-SUFFIX,rushinfo.adobe.com
+DOMAIN-SUFFIX,behance.net
 
 # FINAL
 AND,((IP-CIDR,0.0.0.0/0,no-resolve), (NOT,((GEOIP,CN))))
