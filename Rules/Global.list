@@ -172,6 +172,7 @@ DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,blogspot.com
 
 # PayPal
+USER-AGENT,PayPal*
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypalobjects.com
 
