@@ -91,7 +91,7 @@ DOMAIN-SUFFIX,shimo.im
 # Apple
 USER-AGENT,cloudd*
 USER-AGENT,CloudKit*
-PROCESS-NAME,maps
+DOMAIN-SUFFIX,ls.apple.com
 
 # Alibaba
 DOMAIN-KEYWORD,alipay
