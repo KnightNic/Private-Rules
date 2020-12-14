@@ -42,11 +42,15 @@ DOMAIN-SUFFIX,culturedcode.com
 DOMAIN-SUFFIX,paddle.com
 DOMAIN-SUFFIX,www.onenote.com
 DOMAIN-SUFFIX,istatmenus.app
+DOMAIN-SUFFIX,sessions.bugsnag.com
 
 AND,((DOMAIN-KEYWORD,wiki), (DOMAIN-SUFFIX,org))
 AND,((DOMAIN-KEYWORD,amazon), (DOMAIN-SUFFIX,com))
 AND,((DOMAIN-KEYWORD,github), (DOMAIN-SUFFIX,com))
 AND,((DOMAIN-KEYWORD,dropbox), (DOMAIN-SUFFIX,com))
+
+# Apple
+DOMAIN-SUFFIX,p33-imap.mail.me.com
 
 # Netflix
 USER-AGENT,Argo*
