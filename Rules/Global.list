@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,paddle.com
 DOMAIN-SUFFIX,www.onenote.com
 DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,sessions.bugsnag.com
+DOMAIN-SUFFIX,letsencrypt.org
 
 AND,((DOMAIN-KEYWORD,wiki), (DOMAIN-SUFFIX,org))
 AND,((DOMAIN-KEYWORD,amazon), (DOMAIN-SUFFIX,com))
