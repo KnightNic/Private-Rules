@@ -202,6 +202,12 @@ DOMAIN-SUFFIX,cvs.adobe.com
 DOMAIN-SUFFIX,rushinfo.adobe.com
 DOMAIN-SUFFIX,behance.net
 
+# Affinity
+DOMAIN-SUFFIX,seriflabs.com
+DOMAIN-SUFFIX,welcome.serifservices.com
+DOMAIN-SUFFIX,appcontent.serif.com
+DOMAIN-SUFFIX,cdn.serif.com
+
 # FINAL
 AND,((IP-CIDR,0.0.0.0/0,no-resolve), (NOT,((GEOIP,CN))))
 AND,((IP-CIDR6,::/0,no-resolve), (NOT,((GEOIP,CN))))
