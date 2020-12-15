@@ -52,6 +52,7 @@ AND,((DOMAIN-KEYWORD,dropbox), (DOMAIN-SUFFIX,com))
 
 # Apple
 DOMAIN-SUFFIX,p33-imap.mail.me.com
+DOMAIN-SUFFIX,icloud-content.com
 
 # Netflix
 USER-AGENT,Argo*
