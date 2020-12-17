@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,digitalcertvalidation.com
 DOMAIN-SUFFIX,ocsp.sectigo.com
+DOMAIN-SUFFIX,mixpanel.com
 
 AND,((DOMAIN-KEYWORD,wiki), (DOMAIN-SUFFIX,org))
 AND,((DOMAIN-KEYWORD,amazon), (DOMAIN-SUFFIX,com))
