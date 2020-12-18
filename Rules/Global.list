@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,digitalcertvalidation.com
 DOMAIN-SUFFIX,ocsp.sectigo.com
 DOMAIN-SUFFIX,mixpanel.com
+DOMAIN-SUFFIX,panic.com
 
 AND,((DOMAIN-KEYWORD,wiki), (DOMAIN-SUFFIX,org))
 AND,((DOMAIN-KEYWORD,amazon), (DOMAIN-SUFFIX,com))
@@ -103,6 +104,7 @@ DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,officeclient.microsoft.com
 
 # Google
 DOMAIN-KEYWORD,google
