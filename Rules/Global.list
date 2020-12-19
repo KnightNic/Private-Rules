@@ -47,6 +47,8 @@ DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,eltima.com
 DOMAIN-SUFFIX,ocsp.digicert.com
 DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFIIX,crt.comodoca.com
+DOMAIN-SUFFIX,ocsp.comodoca.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,digitalcertvalidation.com
 DOMAIN-SUFFIX,ocsp.sectigo.com
