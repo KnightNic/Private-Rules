@@ -105,6 +105,9 @@ DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,officeclient.microsoft.com
+DOMAIN-SUFFIX,self.events.data.microsoft.com
+DOMAIN-SUFFIX,login.windows.net
+DOMAIN-SUFFIX,officeci.azurewebsites.net
 
 # Google
 DOMAIN-KEYWORD,google
