@@ -54,6 +54,7 @@ DOMAIN-SUFFIX,digitalcertvalidation.com
 DOMAIN-SUFFIX,ocsp.sectigo.com
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,panic.com
+DOMAIN-SUFFIX,jetbrains.com
 
 AND,((DOMAIN-KEYWORD,wiki), (DOMAIN-SUFFIX,org))
 AND,((DOMAIN-KEYWORD,amazon), (DOMAIN-SUFFIX,com))
@@ -63,6 +64,7 @@ AND,((DOMAIN-KEYWORD,dropbox), (DOMAIN-SUFFIX,com))
 # Apple
 DOMAIN-SUFFIX,p33-imap.mail.me.com
 DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,api.apple-cloudkit.com
 
 # Netflix
 USER-AGENT,Argo*
