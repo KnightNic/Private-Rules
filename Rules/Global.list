@@ -58,6 +58,8 @@ DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,bear.app
 DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
+DOMAIN-SUFFIX,ocsp.usertrust.com
+DOMAIN-SUFFIX,crisp.chat
 
 AND,((DOMAIN-KEYWORD,wiki), (DOMAIN-SUFFIX,org))
 AND,((DOMAIN-KEYWORD,amazon), (DOMAIN-SUFFIX,com))
