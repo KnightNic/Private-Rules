@@ -57,6 +57,7 @@ DOMAIN-SUFFIX,panic.com
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,bear.app
+DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
 
 AND,((DOMAIN-KEYWORD,wiki), (DOMAIN-SUFFIX,org))
 AND,((DOMAIN-KEYWORD,amazon), (DOMAIN-SUFFIX,com))
@@ -67,6 +68,7 @@ AND,((DOMAIN-KEYWORD,dropbox), (DOMAIN-SUFFIX,com))
 DOMAIN-SUFFIX,p33-imap.mail.me.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,api.apple-cloudkit.com
+DOMAIN-SUFFIX,ocsp.apple.com
 
 # Netflix
 USER-AGENT,Argo*
