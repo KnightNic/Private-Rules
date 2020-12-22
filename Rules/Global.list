@@ -91,7 +91,7 @@ DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,hockeyapp.net
 
 # Facebook
-PROCESS-NAME,Messenger*
+PROCESS-NAME,Messenger
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
