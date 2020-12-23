@@ -1,25 +1,20 @@
 #!name=URL Optimization
-#!desc=通用的 URL 优化，包含 Google 搜索及地图、微博短链接白名单、AbeamTV 区域限制等体验增强
+#!desc=通用的 URL 优化，包含 Google 搜索及地图、微博短链接白名单
 
 [URL Rewrite]
 # Redirect Google Search Service
-^(http|https):\/\/(www.)?(g|google)\.cn https://www.google.com 302
+^(http|https):\/\/(www.)?(g|google)\.cn https://www.google.com.hk 302
 
 # Redirect Google Maps Service
-^(http|https):\/\/(ditu|maps).google\.cn https://maps.google.com 302
+^(http|https):\/\/(ditu|maps).google\.cn https://maps.google.com.hk 302
 
 # Redirect HTTP to HTTPS
-^(http|https):\/\/(www.)?taobao\.com\/ https://taobao.com/ 302
-^(http|https):\/\/(www.)?jd\.com\/ https://www.jd.com/ 302
-^(http|https):\/\/(www.)?suning\.com\/ https://suning.com/ 302
 ^(http|https):\/\/(www.)?eeo\.cn\/ https://www.eeo.cn/ 302
 
 # Weibo Short URL
 ^http:\/\/t\.cn https://sinaurl.cn 302
 
 # Redirect False to True
-# > IGN China to IGN Global
-^(http|https):\/\/(www.)?ign\.xn--fiqs8s\/ http://cn.ign.com/ccpref/us 302
 # > Fake Website Made By C&J Marketing
 ^(http|https):\/\/(www.)?abbyychina\.com\/ https://www.abbyy.cn/ 302
 ^(http|https):\/\/(www.)?bartender\.cc\/ https://www.macbartender.com/ 302
@@ -66,8 +61,6 @@
 ^(http|https):\/\/(www.)?yuanchengxiezuo\.com\/ https://www.teamviewer.com/ 302
 ^(http|https):\/\/(www.)?zbrushcn.com/ https://pixologic.com/ 302
 
-# AbeamTV - api.abema.io
-^(http|https):\/\/api\.abema\.io\/v\d\/ip\/check - reject
 
 [MITM]
-hostname = %INSERT% www.google.cn,api.abema.io
+hostname = %INSERT% www.google.cn
