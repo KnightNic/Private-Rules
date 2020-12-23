@@ -62,9 +62,7 @@ AND,((DOMAIN-KEYWORD,github), (DOMAIN-SUFFIX,com))
 AND,((DOMAIN-KEYWORD,dropbox), (DOMAIN-SUFFIX,com))
 
 # Apple
-DOMAIN-SUFFIX,p33-imap.mail.me.com
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,api.apple-cloudkit.com
+DOMAIN-SUFFIX,me.com
 
 # Netflix
 USER-AGENT,Argo*
@@ -108,10 +106,9 @@ DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,akamaized.net
-DOMAIN-SUFFIX,officeclient.microsoft.com
-DOMAIN-SUFFIX,self.events.data.microsoft.com
-DOMAIN-SUFFIX,login.windows.net
-DOMAIN-SUFFIX,officeci.azurewebsites.net
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,azurewebsites.net
 
 # Google
 DOMAIN-KEYWORD,google
@@ -211,14 +208,6 @@ DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytcn.me
 DOMAIN-SUFFIX,nytimes.com
-
-# Adobe
-DOMAIN-SUFFIX,aws.adobess.com
-DOMAIN-SUFFIX,adobelogin.com
-DOMAIN-SUFFIX,hbrcv.adobe.com
-DOMAIN-SUFFIX,cvs.adobe.com
-DOMAIN-SUFFIX,rushinfo.adobe.com
-DOMAIN-SUFFIX,behance.net
 
 # Affinity
 DOMAIN-SUFFIX,seriflabs.com
