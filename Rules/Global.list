@@ -45,20 +45,15 @@ DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,sessions.bugsnag.com
 DOMAIN-SUFFIX,letsencrypt.org
 DOMAIN-SUFFIX,eltima.com
-DOMAIN-SUFFIX,ocsp.digicert.com
 DOMAIN-SUFFIX,lencr.org
-DOMAIN-SUFFIX,crt.comodoca.com
-DOMAIN-SUFFIX,ocsp.comodoca.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,digitalcertvalidation.com
-DOMAIN-SUFFIX,ocsp.sectigo.com
 DOMAIN-SUFFIX,mixpanel.com
 DOMAIN-SUFFIX,panic.com
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,bear.app
 DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
-DOMAIN-SUFFIX,ocsp.usertrust.com
 DOMAIN-SUFFIX,crisp.chat
 
 AND,((DOMAIN-KEYWORD,wiki), (DOMAIN-SUFFIX,org))
