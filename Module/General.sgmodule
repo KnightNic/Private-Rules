@@ -12,7 +12,7 @@
 ^(http|https):\/\/(www.)?taobao\.com\/ https://taobao.com/ 302
 ^(http|https):\/\/(www.)?jd\.com\/ https://www.jd.com/ 302
 ^(http|https):\/\/(www.)?suning\.com\/ https://suning.com/ 302
-^(http|https):\/\/(www.)?eeo\.cn\/ https://eeo.cn/ 302
+^(http|https):\/\/(www.)?eeo\.cn\/ https://www.eeo.cn/ 302
 
 # Weibo Short URL
 ^http:\/\/t\.cn https://sinaurl.cn 302
