@@ -61,19 +61,6 @@ AND,((DOMAIN-KEYWORD,amazon), (DOMAIN-SUFFIX,com))
 AND,((DOMAIN-KEYWORD,github), (DOMAIN-SUFFIX,com))
 AND,((DOMAIN-KEYWORD,dropbox), (DOMAIN-SUFFIX,com))
 
-# Apple
-DOMAIN-SUFFIX,me.com
-
-# Netflix
-USER-AGENT,Argo*
-DOMAIN-SUFFIX,netflix.com
-DOMAIN-SUFFIX,netflix.net
-DOMAIN-SUFFIX,nflxext.com
-DOMAIN-SUFFIX,nflximg.com
-DOMAIN-SUFFIX,nflximg.net
-DOMAIN-SUFFIX,nflxso.net
-DOMAIN-SUFFIX,nflxvideo.net
-
 # OneDrive
 USER-AGENT,OneDrive*
 USER-AGENT,OneDriveiOSApp*
@@ -114,15 +101,12 @@ DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,blogspot
 DOMAIN-SUFFIX,goo.gl
-DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,blogger.com
-DOMAIN-SUFFIX,getoutline.org
 
 # Line
 DOMAIN-SUFFIX,line.me
