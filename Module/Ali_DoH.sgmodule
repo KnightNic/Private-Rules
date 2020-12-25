@@ -3,4 +3,4 @@
 
 [General]
 doh-format = json
-doh-server = https://dns.alidns.com/dns-query
+doh-server = https://dns.alidns.com/resolve
