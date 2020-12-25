@@ -2,6 +2,5 @@
 #!desc=Enable DNS over HTTPS (DoH) with Ali public DNS.
 
 [General]
-dns-server = 223.5.5.5, 223.6.6.6, 119.29.29.29
 doh-format = json
 doh-server = https://dns.alidns.com/dns-query
