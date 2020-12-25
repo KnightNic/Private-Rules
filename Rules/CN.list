@@ -86,11 +86,6 @@ DOMAIN-SUFFIX,dianping.com
 
 DOMAIN-SUFFIX,shimo.im
 
-# Apple
-USER-AGENT,cloudd*
-USER-AGENT,CloudKit*
-DOMAIN-SUFFIX,ls.apple.com
-
 # Alibaba
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,aliyun
