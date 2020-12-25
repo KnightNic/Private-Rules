@@ -1,6 +1,6 @@
 #!name=YouTube
 #!desc=YouTube videos removes ads.
-#!system=iOS
+#!system=ios
 
 [Script]
 # 如果您是 YouTube Premium，请不要开启此模块。
