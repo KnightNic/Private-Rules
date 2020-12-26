@@ -1,0 +1,9 @@
+# Disney Plus
+DOMAIN-SUFFIX,disneyplus.com
+DOMAIN-SUFFIX,disney-plus.net
+DOMAIN-SUFFIX,disney.io
+DOMAIN-SUFFIX,go.com
+DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,dssott.com
+DOMAIN-SUFFIX,demdex.net
+USER-AGENT,Disney*

@@ -152,13 +152,6 @@ DOMAIN-SUFFIX,twitchsvc.net
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.com
 
-# Telegram
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,tdesktop.com
-
 # Snapchat
 DOMAIN-SUFFIX,snapchat.com
 DOMAIN-SUFFIX,sc-static.net
@@ -170,11 +163,6 @@ DOMAIN-SUFFIX,cnn.com
 # Blogger
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,blogspot.com
-
-# PayPal
-USER-AGENT,PayPal*
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypalobjects.com
 
 # NYTimes
 DOMAIN-SUFFIX,nyt.com
