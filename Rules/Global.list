@@ -175,6 +175,12 @@ DOMAIN-SUFFIX,welcome.serifservices.com
 DOMAIN-SUFFIX,appcontent.serif.com
 DOMAIN-SUFFIX,cdn.serif.com
 
+# PayPal
+USER-AGENT,PayPal*
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypal.me
+DOMAIN-SUFFIX,paypalobjects.com
+
 # FINAL
 AND,((IP-CIDR,0.0.0.0/0,no-resolve), (NOT,((GEOIP,CN))))
 AND,((IP-CIDR6,::/0,no-resolve), (NOT,((GEOIP,CN))))
