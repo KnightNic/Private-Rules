@@ -97,15 +97,6 @@ DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,azurewebsites.net
 
-# Google
-DOMAIN-KEYWORD,google
-DOMAIN-KEYWORD,blogspot
-DOMAIN-SUFFIX,goo.gl
-DOMAIN-SUFFIX,gmail.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,appspot.com
-DOMAIN-SUFFIX,blogger.com
-
 # Line
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line-scdn.net

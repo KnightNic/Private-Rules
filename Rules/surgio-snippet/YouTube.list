@@ -1,3 +1,12 @@
+# Google
+DOMAIN-KEYWORD,google
+DOMAIN-KEYWORD,blogspot
+DOMAIN-SUFFIX,goo.gl
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,blogger.com
+
 # > Youtube
 USER-AGENT,*youtube*
 USER-AGENT,YouTube*
