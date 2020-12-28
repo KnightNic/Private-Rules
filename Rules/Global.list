@@ -177,12 +177,6 @@ DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytcn.me
 DOMAIN-SUFFIX,nytimes.com
 
-# Affinity
-DOMAIN-SUFFIX,seriflabs.com
-DOMAIN-SUFFIX,welcome.serifservices.com
-DOMAIN-SUFFIX,appcontent.serif.com
-DOMAIN-SUFFIX,cdn.serif.com
-
 # PayPal
 USER-AGENT,PayPal*
 DOMAIN-SUFFIX,paypal.com
