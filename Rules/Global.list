@@ -21,7 +21,6 @@ DOMAIN-SUFFIX,xteko.com
 DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,giphy.com
-DOMAIN-SUFFIX,mediawiki.org
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,pexels.com
 DOMAIN-SUFFIX,imdb.com
@@ -53,49 +52,56 @@ DOMAIN-SUFFIX,panic.com
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,bear.app
-DOMAIN-SUFFIX,mozilla.cloudflare-dns.com
-DOMAIN-SUFFIX,crisp.chat
 
 AND,((DOMAIN-KEYWORD,wiki), (DOMAIN-SUFFIX,org))
 AND,((DOMAIN-KEYWORD,amazon), (DOMAIN-SUFFIX,com))
 AND,((DOMAIN-KEYWORD,github), (DOMAIN-SUFFIX,com))
 AND,((DOMAIN-KEYWORD,dropbox), (DOMAIN-SUFFIX,com))
 
-# OneDrive
-USER-AGENT,OneDrive*
-USER-AGENT,OneDriveiOSApp*
-DOMAIN,skydrive.wns.windows.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,hockeyapp.net
-
 # Facebook
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbaddins.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
-DOMAIN-SUFFIX,facebook.net
-DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbworkmail.com
 DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,oculuscdn.com
+DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
 
 # Microsoft
-DOMAIN-SUFFIX,gfx.ms
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,msecnd.net
-DOMAIN-SUFFIX,office.net
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,akamaized.net
+USER-AGENT,OneDrive*
+DOMAIN-KEYWORD,onedrive
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,fabric.io
+DOMAIN-SUFFIX,files.1drv.com
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,mesh.com
 DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,windows.net
-DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,microsoft-tst.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,p.sfx.ms
+DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,spoprod-a.akamaihd.net
+DOMAIN-SUFFIX,storage.msn.com
 
 # Line
 DOMAIN-SUFFIX,line.me
@@ -176,12 +182,6 @@ DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytcn.me
 DOMAIN-SUFFIX,nytimes.com
-
-# PayPal
-USER-AGENT,PayPal*
-DOMAIN-SUFFIX,paypal.com
-DOMAIN-SUFFIX,paypal.me
-DOMAIN-SUFFIX,paypalobjects.com
 
 # FINAL
 AND,((IP-CIDR,0.0.0.0/0,no-resolve), (NOT,((GEOIP,CN))))

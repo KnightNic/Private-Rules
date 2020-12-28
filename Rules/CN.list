@@ -1,37 +1,21 @@
-# Except
-DOMAIN,cn.bing.com
-DOMAIN,www.microsoft.com
-DOMAIN,www.gstatic.com
-DOMAIN,ssl.gstatic.com
-DOMAIN,cdn.ampproject.org
-DOMAIN,download.maxmind.com
-
 # Misc
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,rr.tv
 DOMAIN-SUFFIX,sm.ms
-DOMAIN-SUFFIX,mipcdn.com
 DOMAIN-SUFFIX,juejin.im
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,feng.com
 DOMAIN-SUFFIX,xinhuanet.com
 DOMAIN-SUFFIX,ruanmei.com
-DOMAIN-SUFFIX,coding.net
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,yinxiang.com
 DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,hupu.com
 DOMAIN-SUFFIX,gifshow.com
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,lizhi.io
 DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,qiniu.com
-DOMAIN-SUFFIX,jandan.net
-DOMAIN-SUFFIX,kuaidi100.com
 DOMAIN-SUFFIX,guokr.com
-DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,huanqiu.com
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,leiphone.com
@@ -68,17 +52,11 @@ DOMAIN-SUFFIX,huxiucdn.com
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,yangkeduo.com
 
-DOMAIN-SUFFIX,lanzou.com
-DOMAIN-SUFFIX,lanzous.com
-
 DOMAIN-SUFFIX,ifanr.com
 DOMAIN-SUFFIX,ifanrusercontent.com
 
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
-
-DOMAIN-SUFFIX,cmbimg.com
-DOMAIN-SUFFIX,cmbchina.com
 
 DOMAIN-SUFFIX,meituan.net
 DOMAIN-SUFFIX,meituan.com
