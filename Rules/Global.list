@@ -74,6 +74,10 @@ DOMAIN-SUFFIX,whatsapp.net
 
 # Microsoft
 USER-AGENT,OneDrive*
+PROCESS-NAME,OneDrive
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN,oneclient.sfx.ms
 DOMAIN-KEYWORD,onedrive
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,fabric.io
