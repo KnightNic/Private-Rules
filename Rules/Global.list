@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,panic.com
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,bear.app
+DOMAIN-SUFFIX,ifixit.com
 
 AND,((DOMAIN-KEYWORD,wiki), (DOMAIN-SUFFIX,org))
 AND,((DOMAIN-KEYWORD,amazon), (DOMAIN-SUFFIX,com))
