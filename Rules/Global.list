@@ -129,10 +129,6 @@ DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,zdassets.com
 
-# TextNow
-USER-AGENT,TextNow*
-DOMAIN-SUFFIX,freegeoip.net
-
 # Trello
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,trellocdn.com
