@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,io
 DOMAIN-SUFFIX,tk
 DOMAIN-SUFFIX,ms
 DOMAIN-SUFFIX,im
+DOMAIN-SUFFIX,fr
 
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,droplr.com
@@ -176,6 +177,9 @@ DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytcn.me
 DOMAIN-SUFFIX,nytimes.com
+
+# Custom
+
 
 # FINAL
 AND,((IP-CIDR,0.0.0.0/0,no-resolve), (NOT,((GEOIP,CN))))
