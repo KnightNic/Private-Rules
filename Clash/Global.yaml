@@ -473,3 +473,6 @@ payload:
   - DOMAIN-SUFFIX,licdn.com
   - DOMAIN-SUFFIX,msn.com
   - DOMAIN-SUFFIX,skype.com
+
+  # > Custom
+  - DOMAIN-SUFFIX,jable.tv
