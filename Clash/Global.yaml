@@ -439,6 +439,7 @@ payload:
   - DOMAIN-SUFFIX,ifixit.com
   - DOMAIN-SUFFIX,terabox.com
   - DOMAIN-SUFFIX,zaobao.com.sg
+  - DOMAIN-SUFFIX,teamviewer.com
   - DOMAIN,addons.mozilla.org
   - DOMAIN,wego.here.com
   # > Alphabet
