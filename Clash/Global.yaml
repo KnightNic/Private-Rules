@@ -1,5 +1,17 @@
 payload:
   # (D.C.S.G?)
+  - DOMAIN-SUFFIX,tw
+  - DOMAIN-SUFFIX,jp
+  - DOMAIN-SUFFIX,ly
+  - DOMAIN-SUFFIX,us
+  - DOMAIN-SUFFIX,uk
+  - DOMAIN-SUFFIX,au
+  - DOMAIN-SUFFIX,co
+  - DOMAIN-SUFFIX,io
+  - DOMAIN-SUFFIX,tk
+  - DOMAIN-SUFFIX,ms
+  - DOMAIN-SUFFIX,im
+  - DOMAIN-SUFFIX,fr
   - DOMAIN-SUFFIX,9cache.com
   - DOMAIN-SUFFIX,9gag.com
   - DOMAIN-SUFFIX,abc.com
