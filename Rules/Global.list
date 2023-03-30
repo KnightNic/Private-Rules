@@ -102,6 +102,7 @@ DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,spoprod-a.akamaihd.net
 DOMAIN-SUFFIX,storage.msn.com
 DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,office365.com
 
 # Line
 DOMAIN-SUFFIX,line.me
@@ -180,7 +181,12 @@ DOMAIN-SUFFIX,nytcn.me
 DOMAIN-SUFFIX,nytimes.com
 
 # Custom
-
+DOMAIN-SUFFIX,zoho.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,craft.do
+DOMAIN-SUFFIX,zohowebstatic.com
+DOMAIN-SUFFIX,zohocdn.com
+DOMAIN-SUFFIX,zohostatic.com
 
 # FINAL
 AND,((IP-CIDR,0.0.0.0/0,no-resolve), (NOT,((GEOIP,CN))))
