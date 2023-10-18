@@ -1,0 +1,8 @@
+#!name=Customized GFW Rules
+#!desc=Enable Customized GFW Rules
+
+[rule]
+DOMAIN-SUFFIX,linkedin.com,Premium|广美|IEPL|01
+DOMAIN-SUFFIX,bard.google.com,Premium|广美|IEPL|01
+DOMAIN-SUFFIX,openai.com,Premium|广美|IEPL|01
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net,Premium|广美|IEPL|01
