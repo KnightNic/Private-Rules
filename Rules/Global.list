@@ -188,6 +188,7 @@ DOMAIN-SUFFIX,zohowebstatic.com
 DOMAIN-SUFFIX,zohocdn.com
 DOMAIN-SUFFIX,zohostatic.com
 DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,booking.com
 
 # FINAL
 AND,((IP-CIDR,0.0.0.0/0,no-resolve), (NOT,((GEOIP,CN))))
