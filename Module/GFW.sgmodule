@@ -4,6 +4,7 @@
 [Rule]
 DOMAIN-SUFFIX,linkedin.com,Premium|广港|IEPL|10
 DOMAIN-SUFFIX,bard.google.com,Premium|广美|IEPL|01
+DOMAIN-SUFFIX,bing.com,Premium|广美|IEPL|01
 DOMAIN-SUFFIX,openai.com,Premium|广美|IEPL|01
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net,Premium|广美|IEPL|01
 DOMAIN-SUFFIX,booking.com,Premium|广美|IEPL|01
