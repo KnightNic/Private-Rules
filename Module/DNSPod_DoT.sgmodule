@@ -1,0 +1,6 @@
+#!name=DNSPod DoH
+#!desc=Enable DNS over HTTPS (DoH) with DNSPod public DNS.
+
+[General]
+doh-format = wireformat
+doh-server = https://doh.pub/dns-query
